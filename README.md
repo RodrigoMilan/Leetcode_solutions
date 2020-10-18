@@ -1,4 +1,4 @@
 # Leetcode_solutions
 
-| Challange | Solution  | Time  | Memory  |
-| --- | --- | --- | --- |
+| Challange | Solution  | Difficulty  | Time  | Memory  |
+| --- | --- | --- | --- | --- |
