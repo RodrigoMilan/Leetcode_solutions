@@ -12,3 +12,4 @@
 | Kids With the Greatest Number of Candies  | kidsWithCandies.py  | Easy  | 88.6% | 32 ms | 14.1 MB |
 | Destination City  | destCity.py | Easy  |	77.2% | 56 ms | 14.1 MB |
 | Tenth Line    | tenth_line.sh | Easy  | 33.0% | 4 ms  | 3.6 MB  |
+| Asteroid Colision | asteroids.py | Medium | 43.0% | 704 ms | 15.1 MB  |
