@@ -14,4 +14,5 @@
 | Tenth Line    | tenth_line.sh | Easy  | 33.0% | 4 ms  | 3.6 MB  |
 | Asteroid Colision | asteroids.py | Medium | 43.0% | 704 ms | 15.1 MB  |
 | Palindrome Number | isPalindrome.py | Easy  | 49.0% | 52 ms | 14.2  MB  |
-| Search a 2D Matrix  | searchMatrix.py | Medium  |37,0%  |36 ms  | 14.4 MB |
+| Search a 2D Matrix  | searchMatrix.py | Medium  |37,0%  | 36 ms  | 14.4 MB |
+| Remove Duplicates from Sorted Array | removeDuplicates.py | Easy  | 45.8% | 796 ms  | 16.3 MB |
