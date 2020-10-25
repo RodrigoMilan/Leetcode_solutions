@@ -13,3 +13,4 @@
 | Destination City  | destCity.py | Easy  |	77.2% | 56 ms | 14.1 MB |
 | Tenth Line    | tenth_line.sh | Easy  | 33.0% | 4 ms  | 3.6 MB  |
 | Asteroid Colision | asteroids.py | Medium | 43.0% | 704 ms | 15.1 MB  |
+| Palindrome Number | isPalindrome.py | Easy  | 49.0% | 52 ms | 14.2  MB  |
