@@ -7,8 +7,8 @@
 | 69 | Sqrt(x) | mySqrt.py  | Easy  | 34.4%  | 32 ms | 14.1 MB	|
 | 74 | Search a 2D Matrix  | searchMatrix.py | Medium  |37,0%  | 36 ms  | 14.4 MB |
 | 75 | Sort Colors | sortColors.py | Medium  |	48.1%  | 28 ms | 14.1 MB |
-| 191 | Number of 1 Bits  | hammingWeight.py  | Easy  | 51.0% | 24 ms | 14.3 MB |
 | 80 | Remove Duplicates from Sorted Array II | removeDuplicatesII.py  | Medium  | 44.5% | 52 ms | 14.1 MB |
+| 191 | Number of 1 Bits  | hammingWeight.py  | Easy  | 51.0% | 24 ms | 14.3 MB |
 | 195 | Tenth Line    | tenth_line.sh | Easy  | 33.0% | 4 ms  | 3.6 MB  |
 | 287 | Find the Duplicate Number | DuplicateNumber.py  | Medium  | 56.4% | 3204 ms | 16.4 MB |
 | 581 | Array Partition I | arrayPairSum.py | Easy  | 72.3% | 368 ms  | 16.9 MB |
