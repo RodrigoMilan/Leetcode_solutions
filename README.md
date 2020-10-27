@@ -1,5 +1,13 @@
 # Leetcode_solutions
 
+### Here are my resolututions for the [leetcode](https://leetcode.com) problems... 
+
+I use it for training my coding skills :stuck_out_tongue_winking_eye: :computer:  
+<br />
+<br />
+
+# List of solutions with informations.
+
 | # | Challange | Solution  | Difficulty  | Acceptance | Runtime  | Memory  |
 |  --- | --- | --- | --- | --- | --- | --- |
 | 9 | Palindrome Number | isPalindrome.py | Easy  | 49.0% | 52 ms | 14.2  MB  |
