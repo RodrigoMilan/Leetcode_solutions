@@ -1,6 +1,6 @@
 # Leetcode_solutions
 
-### Here are my resolututions for the [leetcode](https://leetcode.com) problems... 
+Here are my resolututions for the [leetcode](https://leetcode.com) problems... 
 
 I use it for training my coding skills :stuck_out_tongue_winking_eye: :computer:  
 <br />
