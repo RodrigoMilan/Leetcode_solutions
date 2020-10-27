@@ -17,3 +17,4 @@
 | Search a 2D Matrix  | searchMatrix.py | Medium  |37,0%  | 36 ms  | 14.4 MB |
 | Remove Duplicates from Sorted Array | removeDuplicates.py | Easy  | 45.8% | 796 ms  | 16.3 MB |
 | Remove Duplicates from Sorted Array II | removeDuplicatesII.py  | Medium  | 44.5% | 52 ms | 14.1 MB |
+| Prime Number of Set Bits in Binary Representation | countPrimeSetBits.py  | Easy  | 63.6% | 1408 ms | 14.7 MB |
